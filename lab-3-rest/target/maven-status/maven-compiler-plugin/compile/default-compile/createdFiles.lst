@@ -1,8 +1,0 @@
-com/app/entities/Box.class
-com/app/controllers/BoxController.class
-com/app/repositories/GiftRepository.class
-com/app/repositories/BoxRepository.class
-com/app/controllers/XmlController.class
-com/app/configurations/MvcConfiguration.class
-com/app/entities/Gift.class
-com/app/Application.class

@@ -1,8 +1,0 @@
-/Users/guest-home/IdeaProjects/course-ESA-java/lab-3-rest/src/main/java/com/app/Application.java
-/Users/guest-home/IdeaProjects/course-ESA-java/lab-3-rest/src/main/java/com/app/repositories/GiftRepository.java
-/Users/guest-home/IdeaProjects/course-ESA-java/lab-3-rest/src/main/java/com/app/controllers/BoxController.java
-/Users/guest-home/IdeaProjects/course-ESA-java/lab-3-rest/src/main/java/com/app/entities/Gift.java
-/Users/guest-home/IdeaProjects/course-ESA-java/lab-3-rest/src/main/java/com/app/entities/Box.java
-/Users/guest-home/IdeaProjects/course-ESA-java/lab-3-rest/src/main/java/com/app/repositories/BoxRepository.java
-/Users/guest-home/IdeaProjects/course-ESA-java/lab-3-rest/src/main/java/com/app/controllers/XmlController.java
-/Users/guest-home/IdeaProjects/course-ESA-java/lab-3-rest/src/main/java/com/app/configurations/MvcConfiguration.java
